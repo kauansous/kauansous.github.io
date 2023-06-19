@@ -1,6 +1,6 @@
 {
-    "name": "garu",
-    "short_name": "garu",
+    "name": "Garu",
+    "short_name": "Garu",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
