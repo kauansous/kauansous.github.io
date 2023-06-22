@@ -1,0 +1,61 @@
+{
+  "Parentesco": [
+    {
+      "parente": "Avô Paterno"
+    },
+    {
+      "parente": "Avó Paterna"
+    },
+    {
+      "parente": "Avô Materno"
+    },
+    {
+      "parente": "Avó Materna"
+    },
+    {
+      "parente": "Pai"
+    },
+    {
+      "parente": "Mãe"
+    },
+    {
+      "parente": "Tio"
+    },
+    {
+      "parente": "Tia"
+    },
+    {
+      "parente": "Primo"
+    },
+    {
+      "parente": "Prima"
+    },
+    {
+      "parente": "Sobrinho"
+    },
+    {
+      "parente": "Sobrinha"
+    },
+    {
+      "parente": "Filho"
+    },
+    {
+      "parente": "Filha"
+    },
+    {
+      "parente": "Irmão"
+    },
+    {
+      "parente": "Irmã"
+    },
+    {
+      "parente": "Neto"
+    },
+    {
+      "parente": "Neta"
+    },
+    {
+      "parente": "Outro"
+    }
+  ]
+}
